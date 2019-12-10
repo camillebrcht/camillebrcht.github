@@ -10,7 +10,7 @@ img {
   
   }
 
-  h1, h2, p, li {
+  h1,h2, p, li {
 
     font-family: Helvetica, Arial, sans-serif;
   
@@ -21,3 +21,10 @@ img {
     border-width: 7px;
     border-color: palevioletred;
   }
+
+h2 {
+    color: MediumSlateBlue;
+}
+.dot{
+    font-weigh: bold;
+    color: MediumVioletRed;
