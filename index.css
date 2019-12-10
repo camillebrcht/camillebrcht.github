@@ -29,7 +29,12 @@ h1 {
 h2 {
     color: MediumSlateBlue;
 }
+.gliss{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: turquoise;
+}
 .dot{
     font-weigh: bold;
     color: MediumVioletRed;
+
 
