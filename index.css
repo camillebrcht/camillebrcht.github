@@ -9,9 +9,15 @@ img {
     width: 400px;
   
   }
-  
+
   h1, h2, p, li {
 
     font-family: Helvetica, Arial, sans-serif;
   
   }  
+
+  img {
+    border-style: dotted;
+    border-width: 7px;
+    border-color: palevioletred;
+  }
