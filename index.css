@@ -22,9 +22,14 @@ img {
     border-color: palevioletred;
   }
 
+h1 {
+    color: whitesmoke;
+}
+
 h2 {
     color: MediumSlateBlue;
 }
 .dot{
     font-weigh: bold;
     color: MediumVioletRed;
+
